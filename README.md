@@ -10,7 +10,7 @@
 
 | NAME | 문제 1| 문제 2| 문제 3|
 | ------ | ------ | ------ | ------ |
-| 훌룽 |https://zrr.kr/9oYC| https://www.acmicpc.net/problem/2961  |  | 
+| 훌룽 | https://www.acmicpc.net/problem/1359 | https://www.acmicpc.net/problem/2961  |  | 
 | --- |  |  |  | 
 | --- |  |  |  | 
 | --- |  |  |  | 
@@ -18,8 +18,10 @@
 
 # 문제 풀이 링크
 | ------ | ------ | ------ | ------ |
-| 훌룽 | https://www.acmicpc.net/problem/1359 | https://www.acmicpc.net/problem/2961  |  | 
+| 훌룽 | [https://www.acmicpc.net/problem/1359](http://boj.kr/6cad01a893164c5cb71b926bc56ee109) |  |  | 
 | --- |  |  |  | 
 | --- |  |  |  | 
 | --- |  |  |  | 
 | --- |  |  |  | 
+
+
