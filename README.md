@@ -20,8 +20,8 @@
 
 | NAME | 문제 1| 문제 2| 문제 3|
 | ------ | ------ | ------ | ------ |
-| 훌룽 | [https://www.acmicpc.net/problem/1359](http://boj.kr/6cad01a893164c5cb71b926bc56ee109) |  |  | 
-| --- |  |  |  | 
+| 훌룽 |http://boj.kr/6cad01a893164c5cb71b926bc56ee109 | http://boj.kr/2c10649ce57b4f7d84386f694c608eec  |  | 
+| --- | |  |  | 
 | --- |  |  |  | 
 | --- |  |  |  | 
 | --- |  |  |  | 
