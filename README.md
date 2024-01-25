@@ -11,6 +11,4 @@
 
 #### 공용 노션 링크 ✨
 
-https://www.notion.so/273b711854da4361abcb02501add5e65?pvs=4
-
-
+https://www.notion.so/81dff713740d4f90ba15909d67150b47?pvs=4
